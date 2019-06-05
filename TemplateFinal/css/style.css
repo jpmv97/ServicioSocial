@@ -902,7 +902,7 @@ p.sub_p {
 
 .dodecagon-bg,
 .octagon-bg {
-    background-color: #0f9d58;
+    background-color: #ff4c00;
 }
 
 /*-- /works--*/
@@ -1088,9 +1088,9 @@ li.dash {
     padding: .8em 1em;
     font-size: 1em;
     cursor: pointer;
-    border: 2px solid #0f9d58;
+    border: 2px solid #ff4c00;
     outline: none;
-    background: #0f9d58;
+    background: #ff4c00;
     width: 100%;
     letter-spacing: 2px;
     transition: 0.5s all;
@@ -1988,7 +1988,7 @@ p.copy-right a:hover {
 
 .contact_grid_right input[type="submit"],
 .contact_grid_right input[type="reset"]:hover {
-    background-color: #0f9d58;
+    background-color: #ff4c00;
 }
 
 .contact-left h4 {
