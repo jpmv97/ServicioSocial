@@ -1199,8 +1199,20 @@ li.dash {
 .dodecagon-bg.t3,
 .octagon-bg.t3,
 .dodecagon-bg.t4,
-.octagon-bg.t4 {
-    background: url(../images/p1.jpg) no-repeat 0px 0px;
+.octagon-bg.t4,
+.dodecagon-bg.t5,
+.octagon-bg.t5,
+.dodecagon-bg.t6,
+.octagon-bg.t6,
+.dodecagon-bg.t7,
+.octagon-bg.t7,
+.dodecagon-bg.t8,
+.octagon-bg.t8,
+.dodecagon-bg.t9,
+.octagon-bg.t9,
+.dodecagon-bg.t10,
+.octagon-bg.t10 {
+    background: url(../images/elena.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1210,23 +1222,56 @@ li.dash {
 
 .dodecagon-bg.t2,
 .octagon-bg.t2 {
-    background: url(../images/p2.jpg) no-repeat 0px 0px;
+    background: url(../images/Cristina_Sanchez.jpg) no-repeat 0px 0px;
 }
+
+
 
 .dodecagon-bg.t3,
 .octagon-bg.t3 {
-    background: url(../images/p3.jpg) no-repeat 0px 0px;
+    background: url(../images/Adolfo_Anguiano.jpg) no-repeat 0px 0px;
 }
 
 .dodecagon-bg.t4,
 .octagon-bg.t4 {
-    background: url(../images/p4.jpg) no-repeat 0px 0px;
+    background: url(../images/Jorge_Beristain.jpg) no-repeat 0px 0px;
+}
+
+.dodecagon-bg.t5,
+.octagon-bg.t5 {
+    background: url(../images/Luis_Martinez.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t6,
+.octagon-bg.t6 {
+    background: url(../images/default.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t7,
+.octagon-bg.t7 {
+    background: url(../images/Alejandro.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t8,
+.octagon-bg.t8 {
+    background: url(../images/Nacho.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t9,
+.octagon-bg.t9 {
+    background: url(../images/Patricia.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t10,
+.octagon-bg.t10 {
+    background: url(../images/Noel_Souza.jpg) no-repeat 0px 0px;
 }
 
 .dodecagon.t2,
 .dodecagon.t3,
 .dodecagon.t4,
-.dodecagon.t1 {
+.dodecagon.t1,
+.dodecagon.t5,
+.dodecagon.t6,
+.dodecagon.t7,
+.dodecagon.t8,
+.dodecagon.t9,
+.dodecagon.t10 {
     width: 14em;
     height: 16em;
 }
