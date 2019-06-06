@@ -1216,7 +1216,17 @@ li.dash {
 .dodecagon-bg.t9,
 .octagon-bg.t9,
 .dodecagon-bg.t10,
-.octagon-bg.t10 {
+.octagon-bg.t10,
+.dodecagon-bg.t11,
+.octagon-bg.t11,
+.dodecagon-bg.t12,
+.octagon-bg.t12,
+.dodecagon-bg.t13,
+.octagon-bg.t13,
+.dodecagon-bg.t14,
+.octagon-bg.t14,
+.dodecagon-bg.t15,
+.octagon-bg.t15 {
     background: url(../images/elena.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -1266,6 +1276,26 @@ li.dash {
 .octagon-bg.t10 {
     background: url(../images/Noel_Souza.jpg) no-repeat 0px 0px;
 }
+.dodecagon-bg.t11,
+.octagon-bg.t11 {
+    background: url(../images/Everardo_Riestra.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t12,
+.octagon-bg.t12 {
+    background: url(../images/Agustina_Villalba.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t13,
+.octagon-bg.t13 {
+    background: url(../images/Frida_Garcia.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t14,
+.octagon-bg.t14 {
+    background: url(../images/Tania.jpg) no-repeat 0px 0px;
+}
+.dodecagon-bg.t15,
+.octagon-bg.t15 {
+    background: url(../images/Adilene_Lariza.jpg) no-repeat 0px 0px;
+}
 
 .dodecagon.t2,
 .dodecagon.t3,
@@ -1276,7 +1306,12 @@ li.dash {
 .dodecagon.t7,
 .dodecagon.t8,
 .dodecagon.t9,
-.dodecagon.t10 {
+.dodecagon.t10,
+.dodecagon.t11,
+.dodecagon.t12,
+.dodecagon.t13,
+.dodecagon.t14,
+.dodecagon.t15 {
     width: 14em;
     height: 16em;
 }
