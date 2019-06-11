@@ -66,8 +66,8 @@ label {
 }
 
 .navbar-nav>li>a {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .nav_top_fx {
@@ -3365,6 +3365,12 @@ p.read_para i {
 
 .img-responsive{
 	width:100%;
+	height:auto;
+}
+
+.img-responsive2{
+    width:100%;
+    max-width: 150px;
 	height:auto;
 }
 
