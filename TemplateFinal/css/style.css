@@ -55,6 +55,10 @@ label {
     margin: 0;
 }
 
+.center_video {
+    text-align: center;
+}
+
 .navbar-nav {
     float: right;
     margin: 0;
@@ -752,7 +756,7 @@ p.sub_p {
 
 .dodecagon-bg.b1,
 .octagon-bg.b1 {
-    background: #0087b4;
+    background: #ff4c00;
 }
 
 .banner_bottom_grid_left_grid .fa-w-16 {
