@@ -117,7 +117,7 @@ label {
     padding: 35px 20px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 0.8em;
+    font-size: 1.2em;
     font-weight: 600;
 }
 
@@ -227,6 +227,12 @@ span.desc {
     font-weight: 700;
     letter-spacing: 2px;
     line-height: 1.4em;
+    font-size:55px
+    
+}
+.allign{
+    margin-left:auto;
+    margin-right:0;
 }
 
 .carousel-caption h2 span,
@@ -300,9 +306,9 @@ span.desc {
 .carousel-caption {
     position: inherit;
     min-height: 750px !important;
-    padding-top: 14em;
-    text-align: left;
-    width: 59%;
+    padding-top: 20em;
+    text-align: right;
+    width: 100%;
 }
 
 .bnr-button {
@@ -529,7 +535,7 @@ a.two.scroll {
 .callbacks_tabs {
     list-style: none;
     position: absolute;
-    bottom: 42%;
+    top: 450px;
     right: 0%;
     padding: 0;
     margin: 0;
@@ -1927,13 +1933,13 @@ ul.social-nav.model-3d-0.footer-social.social.two {
 }
 
 .model-3d-0 .front {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 53px;
     position: absolute;
     top: 0;
     left: 0;
     color: #212121;
-    font-size: 12px;
+    font-size: 40px;
 }
 
 a.twitter .front {
